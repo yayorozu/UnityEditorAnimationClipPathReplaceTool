@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace Yayorozu.EditorTools
+namespace Yorozu.EditorTools
 {
 	public class AnimationClipPathPathReplaceWindow : EditorWindow
 	{
